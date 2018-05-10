@@ -1,12 +1,12 @@
-#Information
+# Information
 
-###Fremont CoderDojo Founder, Tim Inman
+### Fremont CoderDojo Founder, Tim Inman
 
 fremont.us@coderdojo.com
 
 tim.inman@gmail.com
 
-twitter: timinman
+twitter: @timinman
 
 codepen: fremontCoderDojo and thehack 
 
